@@ -1,4 +1,5 @@
-import "./lala";
-
 import "../style/main.scss";
-// import "../index.html";
+
+import createHtml from "./createHtml";
+createHtml()
+
